@@ -112,8 +112,9 @@
         <div class="container">
 
             <div class=" quate-text2" style="align-items: center">
-                <h1 class="mb-3 blod big-font mt-5 text-center">{{_('A quote from you')}}</h1>
-                <p class="mb-3 med-font3 text-center">{{__('Here is a sample quote about women which fills in the gap until we get the official one ')}} </p>
+                <p class="mb-3 med-font3 text-center">{{__('«إن المرأة ليست فقط نصف المجتمع من الناحية العددية بل هي كذلك من حيث مشاركتها في مسؤولية تهيئة الأجيال الصاعدة وتربيتها تربية سليمة متكاملة»')}} </p>
+                <p class="mb-3 blod quate-title">{{__('زايد بن سلطان آل نهيان')}} </p>
+                <p class="mb-3 blod quate-title">{{__('')}} </p>
             </div>
         </div>
     </div>
