@@ -7,7 +7,9 @@
         width: 16rem;
         height: 18rem
     }
-
+.scale-respo2{
+    display: none;
+}
     .scale-respo3{
         scale: 0.6;
         right: -2.6rem !important;
@@ -64,6 +66,9 @@
 @media all and (max-width: 750px) {
     .bigb-font{
         font-size: 40px;
+    }
+    .med-font3{
+        font-size: 18px;
     }
     .event-square
     {
