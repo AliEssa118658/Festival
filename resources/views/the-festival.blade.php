@@ -9,7 +9,7 @@
 
     <div class="container my-5">
 
-        <div class="row" style="direction: rtl !important">
+        <div class="row" style="direction: rtl !important;margin-bottom:10rem;">
             <div class="col-md-6">
                 <img src="/images/svg/main-square1.svg??" alt="" class="main-square one">
                 <img src="/images/svg/main-square3.svg??" alt="" class="main-square sec" style="top:7% !important">
@@ -24,8 +24,8 @@
         </div>
 
         <div class=" box-vision m-auto p-5 ">
-            <p class="p-text med-font3  text-center" style="font-size: 23px">{{__('Announced the Annual Festival of Arab Women 2024 in cooperation with Local and Arab institutions and bodies hold the annual Womens Festival Al Arabiya on March 9, 2024 in Dubai in the presence of high-ranking figures At the Arab level, a group of people of culture, science, and artistic stars And the media, to honor a group of Emirati women in sectors and fields Multiple women are selected according to criteria and nominations, in coordination with institutions Civil society.')}}</p>
-        <h2 class="med-font3 p-text  mb-2  text-center" style="font-size: 23px">{{__('Because the issues of Emirati women do not differ far from the issues of their Arab sisters, it was also decided to honor a group of Arab women in the same sectors on the same day, according to transparent nominations and criteria. The festival also witnesses the honoring of a group of women from the Arab world, regardless of whether they are alive or have moved to the side of their Lord, who have had clear influential imprints in feminist work.')}}</h2>
+            <p class="p-text med-font3  text-center">{{__('Announced the Annual Festival of Arab Women 2024 in cooperation with Local and Arab institutions and bodies hold the annual Womens Festival Al Arabiya on March 9, 2024 in Dubai in the presence of high-ranking figures At the Arab level, a group of people of culture, science, and artistic stars And the media, to honor a group of Emirati women in sectors and fields Multiple women are selected according to criteria and nominations, in coordination with institutions Civil society.')}}</p>
+        <h2 class="med-font3 p-text  mb-2  text-center">{{__('Because the issues of Emirati women do not differ far from the issues of their Arab sisters, it was also decided to honor a group of Arab women in the same sectors on the same day, according to transparent nominations and criteria. The festival also witnesses the honoring of a group of women from the Arab world, regardless of whether they are alive or have moved to the side of their Lord, who have had clear influential imprints in feminist work.')}}</h2>
         </div>
 
     </div>

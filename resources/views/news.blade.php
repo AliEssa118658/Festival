@@ -21,7 +21,7 @@
         </div>
         <div class=" box-vision m-auto p-5 ">
             <p class="p-text  text-center" style="font-size: 1px">{{__($new->description)}}</p>
-        <h2 class="med-font3 p-text  mb-2  text-center" style="font-size: 23px">{{__($new->subtitle)}}</h2>
+        <h2 class="med-font3 p-text  mb-2  text-center" >{{__($new->subtitle)}}</h2>
         </div>
 
     </div>
