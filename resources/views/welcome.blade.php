@@ -114,7 +114,7 @@
             <div class=" quate-text2" style="align-items: center;    padding-top: 1rem;    height: 11rem;">
                 <p class="mb-3 med-font3 text-center">{{__('«إن المرأة ليست فقط نصف المجتمع من الناحية العددية بل هي كذلك من حيث مشاركتها في مسؤولية تهيئة الأجيال الصاعدة وتربيتها تربية سليمة متكاملة»')}} </p>
                 <p class="mb-3 blod quate-title">{{__('زايد بن سلطان آل نهيان')}} <br>
-               {{__('طيب الله ثراه')}} </p>
+               <span class="med-font"> {{__('طيب الله ثراه')}} </span></p>
             </div>
         </div>
     </div>
