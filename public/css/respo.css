@@ -3,6 +3,10 @@
 }
 
 @media all and (max-width: 1250px) {
+    .event-square{
+        width: 16rem;
+        height: 18rem
+    }
     .scale-respo3{
         scale: 0.6;
         right: -2.6rem !important;
@@ -30,7 +34,13 @@
   }
 @media all and (max-width: 995px) {
 
-
+    .main-square.fourth{
+        top: 41%;
+    }
+    .main-square.third{
+        left: -2%;
+    top: 72%;
+    }
     .med-font2.bold.mb-4{
         margin-top: 8%;
     }
@@ -151,6 +161,10 @@
 
 
   @media all and (max-width: 450px) {
+    .med-font3{
+        font-size: 16px;
+
+    }
     .med-font4{
         font-size: 18px;
 

@@ -4,16 +4,16 @@
     <div class="top">
         <div class="container">
             <div class="row pt-2">
-                <div class="col-lg-2 col-md-3 col-sm-4  d-none d-md-block  ltr" style="margin-top: 0.3rem " >
+                <div class="col-lg-3 col-md-3 col-sm-4  d-none d-md-block  ltr" style="margin-top: 0.3rem " >
 
                         <span><img src="{{asset('images/svg/w-phone.svg')}}" style="margin-top:-0.3rem" alt=""></span>
                         <span ><a class="w-text header-font-large ml-1 b-hover" href="tel:+971529277779">+ 971 52 927 77 79</a></span>
 
                 </div>
-                <div class="col-lg-3  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">
+                <div class="col-lg-4  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">
                     <span><img src="{{asset('images/svg/w-email.svg')}}" alt="" style="width: 6.6%;margin-top:-0.35rem"></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1">  Info@arabwomenfestival.com</a></span>
                 </div>
-                <div class="col-lg-4  col-md-1  d-none d-sm-block "></div>
+                <div class="col-lg-2  col-md-1  d-none d-sm-block "></div>
 
                 <div class="col-lg-3  col-md-3 col-sm-12 ">
                     <ul class="social-header">
