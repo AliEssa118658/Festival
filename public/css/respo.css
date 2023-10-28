@@ -34,6 +34,9 @@
     .p-line-first.nom-2{
         top: -0.6rem !important;
     }
+    .h-14{
+        height: 17rem;
+    }
   }
 @media all and (max-width: 995px) {
 
@@ -61,6 +64,9 @@
     }
     .main-square.fourth{
         left: 0;
+    }
+    .h-14{
+        height: 22rem;
     }
   }
 @media all and (max-width: 750px) {
