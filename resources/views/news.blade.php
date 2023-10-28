@@ -46,14 +46,14 @@
             <div class="event-square mb-3">
                 <img src="/images/png/daimond.jpeg?" alt="">
                 <div>
-                <h1 class=" text-center m-auto"  style="margin-top: 40% !important">{{__('Mother of the Emirates necklace')}}</h1>
+                <h1 class=" text-center m-auto"  style="margin-top: 30% !important">{{__('Mother of the Emirates necklace')}}</h1>
                 <a href="{{ route('news', ['news' => 1]) }}" class="learn-more-p">{{__('Learn More')}}</a>
                             </div>
             </div>
             <div class="event-square mb-3">
                 <img src="/images/png/koakb.jpg?" alt="">
                 <div>
-                <h1 class=" text-center m-auto" style="margin-top: 40% !important">{{__('Twelve Planets')}}</h1>
+                <h1 class=" text-center m-auto" style="margin-top: 30% !important">{{__('Twelve Planets')}}</h1>
                 <a href="{{ route('news', ['news' =>2]) }}" class="learn-more-p">{{__('Learn More')}}</a>
                             </div>
             </div>
