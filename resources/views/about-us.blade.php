@@ -48,7 +48,7 @@
 
             </div>
             <div class="col-md-6 col-sm-12  px-0">
-         <img src="images/png/light3.jpeg" class="about-img" alt="" style="margin-top: 5rem" >
+         <img src="images/png/light3.jpeg" class="about-img" alt="" style="margin-top: 4rem" >
             </div>
         </div>
 
