@@ -4,7 +4,7 @@
 <section  class="mt-5 ">
     <span class="p-line-miss"></span>  <h1 class="bigbig-font bold p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
 
-    <img src="/images/png/square1.png?" alt="" class="scale-respo" style="position: absolute;right:0;top:60%;rotate:180deg">
+    <img src="/images/png/square1.png?" alt="" class="scale-respo2" style="position: absolute;right:0;top:60%;rotate:180deg">
     <img src="/images/png/square3.png?" alt="" class="scale-respo" style="position: absolute;left:0;top:80rem;width:15%">
     <img src="/images/png/square4.png?" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem;width:15%">
 
