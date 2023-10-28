@@ -97,7 +97,7 @@ class NewsController extends Controller
             'msg' => $request->msg,
         );
 
-        $emails = ['ali6721985@gmail.com', $request->email];
+        $emails = ['info@arabwomanfestival.com', $request->email];
 
         Mail::send('emails.contact', $data, function($message) use ($emails) {
             $message->to($emails)->subject('Contact US');

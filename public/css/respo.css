@@ -172,6 +172,9 @@
     .p-line-first.nom-2{
         top: 0rem !important
     }
+    .med-font{
+        font: 14px;
+    }
   }
 
 
@@ -195,7 +198,7 @@
         font-size: 28px !important;
     }
     .first-quote{
-        margin-top: 9rem;
+        margin-top: 2rem;
     }
     .quate2-img{
         left: 32%;
