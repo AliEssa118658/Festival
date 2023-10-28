@@ -42,6 +42,9 @@ Route::get('/contact-us', function () {
 Route::get('/about-us', function () {
     return view('about-us');
 })->name('about-us');
+Route::get('/the-festival', function () {
+    return view('the-festival');
+})->name('the-festival');
 
 Route::get('/care-packages', function () {
     return view('care-packages');
