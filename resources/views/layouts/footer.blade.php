@@ -1,7 +1,7 @@
 <section class="footer">
     <div class="container">
         <div class="row py-4">
-            <div class="col-lg-4 ">
+            <div class="col-lg-4 text-center">
               <a href="{{route('welcome')}}"> <img src="{{asset('images/svg/logo-footer.svg')}}" alt="logo" class="footer-logo"></a>
             </div>
             <div class="col-lg-4 ">
